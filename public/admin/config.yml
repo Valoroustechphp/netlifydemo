@@ -1,10 +1,11 @@
 backend:
   name: git-gateway
+  repo: Valoroustechphp/netlifydemo
   branch: master # Branch to update (optional; defaults to master)
 
 # These lines should *not* be indented
 media_folder: "public/images" 
-repo: Valoroustechphp/netlifydemo
+
 public_folder: "/images" 
 
 collections:
