@@ -4,6 +4,7 @@ backend:
 
 # These lines should *not* be indented
 media_folder: "public/images" 
+repo: Valoroustechphp/netlifydemo
 public_folder: "/images" 
 
 collections:
