@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import PostList from './components/postlist';
-import { BrowserRouter as Router, Route } from "react-router-dom"
+import { BrowserRouter as Router} from "react-router-dom"
 function App() {
   return (
     <div className="App">
