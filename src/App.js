@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <h1>Netlify React  Blog Post</h1>
       <Router>
-        <PostList />
+         <PostList />
       </Router>
     </div>
   );
